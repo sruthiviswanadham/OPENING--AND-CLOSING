@@ -1,11 +1,11 @@
-# OPENING--AND-CLOSING
-## Aim
+###  OPENING--AND-CLOSING
+### Aim
 To implement Opening and Closing using Python and OpenCV.
 
-## Software Required
+### Software Required
 1. Anaconda - Python 3.7
 2. OpenCV
-## Algorithm:
+### Algorithm:
 ### Step1:
 Import the necessary packages
 
@@ -23,7 +23,7 @@ Use Opening operation
 Use Closing Operation
 
  
-## Program:
+### Program:
 ```
 import cv2
 import numpy as np
@@ -68,7 +68,7 @@ plt.tight_layout()
 plt.show()
 
 ```
-## Output:
+### Output:
 
 ### Display the input Image
 ![image](https://github.com/user-attachments/assets/c6772ac7-5d88-46ba-9c06-f63c15e3c7ed)
